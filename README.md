@@ -9,11 +9,7 @@ _We propose misogyny detection as an Argumentative Reasoning task and we investi
 
 ## Data
 
-TBA
-
-## Experiments
-
-TBA
+Data are available upon requesting. Fill in this form to obtain them: https://docs.google.com/forms/d/1eRXilZiCwnZ7SvOVG55NJ057ReTvnH8sdWOxyDkLw7c
 
 ## Contact
 
